@@ -8,7 +8,7 @@
                     <a href="/">Trang chủ</a>
                 </div>
                 <div class="item">
-                    <a href="/product">Trang chủ</a>
+                    <a href="/product">Sản phẩm</a>
                 </div>
                 <div class="item">
                     <a href="">Blog</a>
@@ -22,7 +22,7 @@
                     <a href="/profile"><img src="@/assets/images/user.png" alt=""></a>
                 </div>
                 <div class="item">
-                    <a href=""><img src="@/assets/images/cart.png" alt=""></a>
+                    <a href="/cart"><img src="@/assets/images/cart.png" alt=""></a>
                 </div>
             </div>
         </div>
